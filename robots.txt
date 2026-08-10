@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-nixt1f.goib138.site/sitemap.xml
